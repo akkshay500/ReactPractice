@@ -1,0 +1,2 @@
+export const LOGO_IMG = "https://media.istockphoto.com/id/1208194075/vector/local-craft-food-design-template-local-food-poster-for-restaurant-cooking-and-food-business.jpg?s=612x612&w=0&k=20&c=uIhhmIz_yBy2u-1urD8Dm0bxIt5D30aAgDEr0vvJShk=";
+export const DATA_URL = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=18.556466603697835&lng=73.75945129380037&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING";

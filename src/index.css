@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.navItems > ul {
+    display: flex;
+    list-style-type: none;
+    margin-right: 250px;
+}
+
+.navItems > ul > li{
+    padding: 20px;
+}
+
+.site-logo
+{
+    width:150px;
+}
+
+.search-container{
+    margin-top:10px;
+}
+
+.search{
+    margin-right: 10px;
+}
+
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding:50px;
+}
+
+.card{
+    border: 1px solid black;
+    width: 250px;
+    height:300px;
+    margin:10px;
+    background-color: lightgrey;
+}
+
+.card-img{
+    height: 144px;
+    padding: 5px;
+}
